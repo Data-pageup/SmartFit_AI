@@ -1,11 +1,13 @@
 # SmartFit AI
 
-[![Streamlit App] (https://smartfit-ai.streamlit.app/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[Streamlit App] (https://smartfit-ai.streamlit.app/)  
 
-_smartFit AI is a comprehensive machine-learning-powered system that analyzes workout patterns, dietary habits, and health indicators to deliver personalized insights, predictions, and recommendations. It combines supervised, unsupervised, and deep-learning techniques to model calorie burn, cluster fitness profiles, and suggest optimal workouts and diet plans._
+[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=SmartFit+AI+Dashboard+Preview) <!-- Replace with actual screenshot -->
+SmartFit AI is a comprehensive machine-learning-powered system that analyzes workout patterns, dietary habits, and health indicators to deliver personalized insights, predictions, and recommendations. It combines supervised, unsupervised, and deep-learning techniques to model calorie burn, cluster fitness profiles, and suggest optimal workouts and diet plans._
+
+![Dashboard Preview]
+<img width="1348" height="562" alt="image" src="https://github.com/user-attachments/assets/90087d81-ba34-42a2-9f2e-7f84e09c0674" />
 
 ## Key Highlights
 -  Predict calories burned, BMI, and fat percentage
