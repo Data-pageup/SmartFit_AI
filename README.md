@@ -22,11 +22,8 @@ SmartFit AI is a comprehensive machine-learning-powered system that analyzes wor
 - [Dashboard Sections](#dashboard-sections)
 - [Dataset](#dataset)
 - [Model Performance](#model-performance)
-- [ licensed Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Overview
 SmartFit AI leverages a dataset of user fitness metrics to provide actionable insights. Using techniques like PCA for dimensionality reduction, K-Means clustering for profile segmentation, and neural networks for predictions, it helps users optimize their health journeys. The interactive Streamlit app visualizes data, predicts outcomes, and generates recommendations in real-time.
@@ -90,4 +87,6 @@ The Streamlit app is organized into intuitive sections:
 
 ## Model Performance
 - **Clustering**: K-Means applied on PCA-reduced features (`pca1`, `pca2`).
-- **Classification Report** (on 4,000 test samples):
+- **Clustering**: K-Means applied on PCA-reduced features (`pca1`, `pca2`) to identify 5 fitness archetypes. Explained variance from PCA can be visualized in the app.
+- **Supervised Models** (e.g., Neural Networks for calorie burn, BMI, and body fat prediction)
+
